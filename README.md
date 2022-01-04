@@ -23,8 +23,8 @@ I conducted an analysis to improve my knowledge of Python and Powerbi. In my ana
 I built 3 page report on PowerBI. Left up side logos(Like Mini Graphics) for changing pages and buttons with 'H' for patiente data, 'O' for death data. When you select one of them button, the whole visualizes colors and values are changing for your choice.
 
 
-<img src="27.png" width="300"/>
-<img src="26.png" width="300"/>
+<img src="img\27.png" width="300"/>
+<img src="img\26.png" width="300"/>
 
 ## - Notebook
 My notebook occur from 4 chapters
@@ -35,7 +35,7 @@ My notebook occur from 4 chapters
 
 ###### Data Cleaning Code Example
 
-<img src="29.png" width="300"/>
+<img src="img\29.png" width="300"/>
 
 ## - Data
 Dataset has 59704 rows and 54 total column
